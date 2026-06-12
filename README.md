@@ -1,0 +1,2 @@
+# openeye
+shadowrocket/Surge/Clash
