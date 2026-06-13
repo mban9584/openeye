@@ -1,0 +1,71 @@
+# NAME: Bank
+# AUTHOR: MasterBrain
+# REPO: https://github.com/mban9584/openeye/new/main
+# UPDATED: 2025-06-06 09:15:08
+# DOMAIN-KEYWORD: 6
+# DOMAIN-SUFFIX: 6
+# TOTAL: 12
+DOMAIN-KEYWORD,diabrowser.engineering,AI
+DOMAIN-SUFFIX,apple-relay.apple.com,AI
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,AI
+DOMAIN-KEYWORD,apple-relay,AI
+DOMAIN-SUFFIX,googleapis.com,AI
+DOMAIN-SUFFIX,diabrowser.engineering,AI
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingads.com
+DOMAIN-SUFFIX,bingagencyawards.com
+DOMAIN-SUFFIX,bingapistatistics.com
+DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingvisualsearch.com
+DOMAIN-SUFFIX,bingworld.com
+DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN,antigravity.google
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google
+DOMAIN,antigravity-unleash.goog
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN,aida.googleapis.com
+DOMAIN,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN,jules.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN,api.github.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN,openrouter.ai
+DOMAIN,api.jetbrains.ai
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,g.ai
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
