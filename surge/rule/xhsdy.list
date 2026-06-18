@@ -1,0 +1,31 @@
+# 小红书
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xiaohongshu.net
+DOMAIN-SUFFIX,xhslink.com
+DOMAIN-SUFFIX,xhsimg.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xingin.com
+
+# 抖音 / 字节系国内 CDN
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiaocloud.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,zijieimg.com
+DOMAIN-SUFFIX,zijiecdn.com
